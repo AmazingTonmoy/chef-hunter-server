@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Michael Johnson",
+    "experience": "15 years",
+    "recipes": 150,
+    "likes": 7000,
+    "imgSrc": "https://i.postimg.cc/4yPf2R4r/photo-1583394293214-28ded15ee548-ixlib-rb-4-0.jpg",
+    "bio": "Chef Michael Johnson is a renowned chef who has worked in some of the top restaurants in the world. He specializes in French cuisine and has won several awards for his culinary skills."
+  },
+  {
+    "id": 2,
+    "name": "Chef Maria Rodriguez",
+    "experience": "12 years",
+    "recipes": 120,
+    "likes": 6000,
+    "imgSrc": "https://i.postimg.cc/VNq3WBkh/pexels-photo-3814446.jpg",
+    "bio": "Chef Maria Rodriguez is a talented chef who has cooked in many different countries. She loves to experiment with flavors and incorporates traditional techniques from around the world into her dishes."
+  },
+  {
+    "id": 3,
+    "name": "Chef David Lee",
+    "experience": "10 years",
+    "recipes": 100,
+    "likes": 5000,
+    "imgSrc": "https://i.postimg.cc/ZYpVBK0f/pexels-photo-887827.jpg",
+    "bio": "Chef David Lee is a passionate chef who enjoys cooking for his friends and family in his free time. He believes that food brings people together and loves to create dishes that are both delicious and visually appealing."
+  },
+  {
+    "id": 4,
+    "name": "Chef Olivia Chen",
+    "experience": "8 years",
+    "recipes": 80,
+    "likes": 4000,
+    "imgSrc": "https://i.postimg.cc/dVsrzzCN/cute-cook-girl-18852231.jpg",
+    "bio": "Chef Olivia Chen is a creative chef who likes to mix different cuisines to create exciting new flavors. She is known for her fusion dishes and loves to experiment with ingredients to create unique and memorable dishes."
+  },
+  {
+    "id": 5,
+    "name": "Chef William Brown",
+    "experience": "6 years",
+    "recipes": 60,
+    "likes": 3000,
+    "imgSrc": "https://i.postimg.cc/XYJPCSRp/ChefLee.jpg",
+    "bio": "Chef William Brown is a young chef who is just starting out in the culinary world. He has a passion for cooking and hopes to one day open his own restaurant and share his love of food with the world."
+  },
+  {
+    "id": 6,
+    "name": "Chef Emma Kim",
+    "experience": "9 years",
+    "recipes": 90,
+    "likes": 4500,
+    "imgSrc": "https://i.postimg.cc/NjBsqM2Z/700-02370974en-Masterfile.jpg",
+    "bio": "Chef Emma Kim is a Korean-American chef who specializes in Korean fusion cuisine. She loves to mix traditional Korean ingredients and cooking techniques with modern flavors to create unique and delicious dishes."
+  }
+]
